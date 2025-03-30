@@ -1,0 +1,169 @@
+TimePeriod,Geography,AQI
+2019,Bayside - Little Neck,29
+2019,Bedford Stuyvesant - Crown Heights,28
+2019,Bensonhurst - Bay Ridge,29
+2019,Borough Park,28
+2019,Canarsie - Flatlands,31
+2019,Central Harlem - Morningside Heights,29
+2019,Chelsea - Clinton,42
+2019,Coney Island - Sheepshead Bay,31
+2019,Crotona -Tremont,30
+2019,Downtown - Heights - Slope,31
+2019,East Flatbush - Flatbush,29
+2019,East Harlem,30
+2019,East New York,30
+2019,Flushing - Clearview,29
+2019,Fordham - Bronx Pk,28
+2019,Fresh Meadows,29
+2019,Gramercy Park - Murray Hill,42
+2019,Greenpoint,36
+2019,Greenwich Village - SoHo,40
+2019,High Bridge - Morrisania,30
+2019,Hunts Point - Mott Haven,31
+2019,Jamaica,30
+2019,Kingsbridge - Riverdale,28
+2019,Long Island City - Astoria,33
+2019,Lower Manhattan,34
+2019,Northeast Bronx,28
+2019,Pelham - Throgs Neck,29
+2019,Port Richmond,26
+2019,Ridgewood - Forest Hills,29
+2019,Rockaways,35
+2019,South Beach - Tottenville,28
+2019,Southeast Queens,31
+2019,Southwest Queens,31
+2019,Stapleton - St. George,27
+2019,Sunset Park,30
+2019,Union Square - Lower East Side,37
+2019,Upper East Side,33
+2019,Upper West Side,31
+2019,Washington Heights,30
+2019,West Queens,30
+2019,Williamsburg - Bushwick,31
+2019,Willowbrook,27
+2020,Bayside - Little Neck,28
+2020,Bedford Stuyvesant - Crown Heights,27
+2020,Bensonhurst - Bay Ridge,28
+2020,Borough Park,27
+2020,Canarsie - Flatlands,28
+2020,Central Harlem - Morningside Heights,27
+2020,Chelsea - Clinton,35
+2020,Coney Island - Sheepshead Bay,29
+2020,Crotona -Tremont,28
+2020,Downtown - Heights - Slope,28
+2020,East Flatbush - Flatbush,27
+2020,East Harlem,28
+2020,East New York,27
+2020,Flushing - Clearview,29
+2020,Fordham - Bronx Pk,28
+2020,Fresh Meadows,28
+2020,Gramercy Park - Murray Hill,34
+2020,Greenpoint,29
+2020,Greenwich Village - SoHo,34
+2020,High Bridge - Morrisania,28
+2020,Hunts Point - Mott Haven,29
+2020,Jamaica,27
+2020,Kingsbridge - Riverdale,26
+2020,Long Island City - Astoria,29
+2020,Lower Manhattan,31
+2020,Northeast Bronx,29
+2020,Pelham - Throgs Neck,30
+2020,Port Richmond,25
+2020,Ridgewood - Forest Hills,28
+2020,Rockaways,29
+2020,South Beach - Tottenville,27
+2020,Southeast Queens,28
+2020,Southwest Queens,28
+2020,Stapleton - St. George,26
+2020,Sunset Park,27
+2020,Union Square - Lower East Side,32
+2020,Upper East Side,28
+2020,Upper West Side,27
+2020,Washington Heights,27
+2020,West Queens,29
+2020,Williamsburg - Bushwick,28
+2020,Willowbrook,26
+2021,Bayside - Little Neck,28
+2021,Bedford Stuyvesant - Crown Heights,28
+2021,Bensonhurst - Bay Ridge,28
+2021,Borough Park,28
+2021,Canarsie - Flatlands,30
+2021,Central Harlem - Morningside Heights,28
+2021,Chelsea - Clinton,35
+2021,Coney Island - Sheepshead Bay,30
+2021,Crotona -Tremont,28
+2021,Downtown - Heights - Slope,30
+2021,East Flatbush - Flatbush,29
+2021,East Harlem,28
+2021,East New York,29
+2021,Flushing - Clearview,29
+2021,Fordham - Bronx Pk,28
+2021,Fresh Meadows,28
+2021,Gramercy Park - Murray Hill,34
+2021,Greenpoint,32
+2021,Greenwich Village - SoHo,34
+2021,High Bridge - Morrisania,28
+2021,Hunts Point - Mott Haven,29
+2021,Jamaica,29
+2021,Kingsbridge - Riverdale,28
+2021,Long Island City - Astoria,30
+2021,Lower Manhattan,32
+2021,Northeast Bronx,28
+2021,Pelham - Throgs Neck,28
+2021,Port Richmond,27
+2021,Ridgewood - Forest Hills,28
+2021,Rockaways,32
+2021,South Beach - Tottenville,28
+2021,Southeast Queens,29
+2021,Southwest Queens,30
+2021,Stapleton - St. George,27
+2021,Sunset Park,29
+2021,Union Square - Lower East Side,32
+2021,Upper East Side,29
+2021,Upper West Side,28
+2021,Washington Heights,29
+2021,West Queens,30
+2021,Williamsburg - Bushwick,30
+2021,Willowbrook,27
+2022,Bayside - Little Neck,31
+2022,Bedford Stuyvesant - Crown Heights,31
+2022,Bensonhurst - Bay Ridge,33
+2022,Borough Park,33
+2022,Canarsie - Flatlands,33
+2022,Central Harlem - Morningside Heights,29
+2022,Chelsea - Clinton,35
+2022,Coney Island - Sheepshead Bay,34
+2022,Crotona -Tremont,29
+2022,Downtown - Heights - Slope,30
+2022,East Flatbush - Flatbush,32
+2022,East Harlem,29
+2022,East New York,32
+2022,Flushing - Clearview,32
+2022,Fordham - Bronx Pk,29
+2022,Fresh Meadows,32
+2022,Gramercy Park - Murray Hill,33
+2022,Greenpoint,30
+2022,Greenwich Village - SoHo,33
+2022,High Bridge - Morrisania,29
+2022,Hunts Point - Mott Haven,30
+2022,Jamaica,32
+2022,Kingsbridge - Riverdale,28
+2022,Long Island City - Astoria,30
+2022,Lower Manhattan,30
+2022,Northeast Bronx,30
+2022,Pelham - Throgs Neck,31
+2022,Port Richmond,32
+2022,Ridgewood - Forest Hills,32
+2022,Rockaways,35
+2022,South Beach - Tottenville,33
+2022,Southeast Queens,32
+2022,Southwest Queens,33
+2022,Stapleton - St. George,32
+2022,Sunset Park,31
+2022,Union Square - Lower East Side,31
+2022,Upper East Side,29
+2022,Upper West Side,28
+2022,Washington Heights,28
+2022,West Queens,31
+2022,Williamsburg - Bushwick,31
+2022,Willowbrook,32
